@@ -1,0 +1,31 @@
+# Binarios
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go
+/vendor/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datos locales (no subir BD al repositorio)
+data/*.db
+data/*.bak
+*.db
+
+# Scripts locales de desarrollo
+scripts/
