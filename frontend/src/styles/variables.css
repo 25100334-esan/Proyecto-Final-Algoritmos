@@ -1,0 +1,20 @@
+:root {
+  --bg-dark: #121212;
+  --bg-elevated: #181818;
+  --bg-card: #282828;
+  --bg-panel: #1e1e2e;
+  --accent: #1db954;
+  --accent-hover: #1ed760;
+  --accent-academic: #6366f1;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-muted: #727272;
+  --border: #333333;
+  --danger: #e91429;
+  --warning: #f59e0b;
+  --index-node: #4f46e5;
+  --leaf-node: #059669;
+  --highlight: #fbbf24;
+  --split-glow: #f97316;
+  --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
