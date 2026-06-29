@@ -25,9 +25,9 @@ Cuando hay más de **500 canciones**, el canvas se desactiva automáticamente y 
 
 | Nombre | GitHub | Rol |
 |--------|--------|-----|
-| Brayan Paredes Sucapuca | [25100334-esan](https://github.com/25100334-esan) | Coordinación, API, modo negocio |
+| Brayan Paredes Sucapuca 25100334 | [25100334-esan](https://github.com/25100334-esan) | Coordinación, API, modo negocio |
 | Marcelo Miranda | [MarceloW18](https://github.com/MarceloW18) | B+-Tree genérico, índices secundarios |
-| Leo Leon | [Leo-nardo-14](https://github.com/Leo-nardo-14) | Frontend académico, animaciones |
+| Elvin Loarte Quinteros 25100612| [Leo-nardo-14](https://github.com/Leo-nardo-14) | Frontend académico, animaciones |
 | Aaron Cruzado | [aaroncruzado60-byte](https://github.com/aaroncruzado60-byte) | Tests, prefix search, integración |
 
 ## Estructura del repositorio
